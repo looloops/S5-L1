@@ -460,3 +460,9 @@ footer a {
 
 
 }
+
+.badge {
+    box-shadow:
+        0 0 0 5px #00A0C6,
+        0 0 0 10px #830b6d
+}
